@@ -1,0 +1,1025 @@
+Q.1
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543392
+Option 1 ID : 5335431421
+Option 2 ID : 5335431422
+Option 3 ID : 5335431423
+Option 4 ID : 5335431424
+Status : Not Answered
+Chosen Option : --
+Q.2
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543377
+Option 1 ID : 5335431364
+Option 2 ID : 5335431361
+Option 3 ID : 5335431362
+Option 4 ID : 5335431363
+Status : Answered
+Chosen Option : 3
+Q.3
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543393
+Option 1 ID : 5335431428
+Option 2 ID : 5335431425
+Option 3 ID : 5335431426
+Option 4 ID : 5335431427
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.4
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543394
+Option 1 ID : 5335431430
+Option 2 ID : 5335431432
+Option 3 ID : 5335431429
+Option 4 ID : 5335431431
+Status : Answered
+Chosen Option : 4
+Q.5
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543396
+Option 1 ID : 5335431438
+Option 2 ID : 5335431439
+Option 3 ID : 5335431440
+Option 4 ID : 5335431437
+Status : Answered
+Chosen Option : 4
+Q.6
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543379
+Option 1 ID : 5335431371
+Option 2 ID : 5335431372
+Option 3 ID : 5335431369
+Option 4 ID : 5335431370
+Status : Answered
+Chosen Option : 4
+Q.7
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543378
+Option 1 ID : 5335431365
+Option 2 ID : 5335431368
+Option 3 ID : 5335431367
+Option 4 ID : 5335431366
+Status : Answered
+Chosen Option : 2
+Q.8
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543391
+Option 1 ID : 5335431417
+Option 2 ID : 5335431419
+Option 3 ID : 5335431418
+Option 4 ID : 5335431420
+Status : Answered
+Chosen Option : 4
+Q.9
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543395
+Option 1 ID : 5335431434
+Option 2 ID : 5335431435
+Option 3 ID : 5335431436
+Option 4 ID : 5335431433
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.10
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543387
+Option 1 ID : 5335431404
+Option 2 ID : 5335431403
+Option 3 ID : 5335431401
+Option 4 ID : 5335431402
+Status : Answered
+Chosen Option : 2
+Q.11
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543381
+Option 1 ID : 5335431377
+Option 2 ID : 5335431378
+Option 3 ID : 5335431379
+Option 4 ID : 5335431380
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.12
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543386
+Option 1 ID : 5335431399
+Option 2 ID : 5335431398
+Option 3 ID : 5335431397
+Option 4 ID : 5335431400
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.13
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543383
+Option 1 ID : 5335431387
+Option 2 ID : 5335431385
+Option 3 ID : 5335431386
+Option 4 ID : 5335431388
+Status : Answered
+Chosen Option : 3
+Q.14
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543380
+Option 1 ID : 5335431374
+Option 2 ID : 5335431373
+Option 3 ID : 5335431376
+Option 4 ID : 5335431375
+Status : Answered
+Chosen Option : 2
+Q.15
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543384
+Option 1 ID : 5335431391
+Option 2 ID : 5335431390
+Option 3 ID : 5335431392
+Option 4 ID : 5335431389
+Status : Answered
+Chosen Option : 1
+Q.16
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543385
+Option 1 ID : 5335431395
+Option 2 ID : 5335431393
+Option 3 ID : 5335431394
+Option 4 ID : 5335431396
+Status : Not Answered
+Chosen Option : --
+Q.17
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543388
+Option 1 ID : 5335431406
+Option 2 ID : 5335431405
+Option 3 ID : 5335431407
+Option 4 ID : 5335431408
+Status : Not Answered
+Chosen Option : --
+Q.18
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543390
+Option 1 ID : 5335431414
+Option 2 ID : 5335431415
+Option 3 ID : 5335431413
+Option 4 ID : 5335431416
+Status : Answered
+Chosen Option : 4
+Q.19
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543389
+Option 1 ID : 5335431409
+Option 2 ID : 5335431412
+Option 3 ID : 5335431410
+Option 4 ID : 5335431411
+Status : Answered
+Chosen Option : 4
+Q.20
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543382
+Option 1 ID : 5335431382
+Option 2 ID : 5335431383
+Option 3 ID : 5335431384
+Option 4 ID : 5335431381
+Status : Answered
+Chosen Option : 1
+Q.21
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543399
+Status : Not Attempted and
+Marked For Review
+Q.22
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543402
+Status : Not Answered
+Q.23
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543403
+Status : Not Answered
+Q.24
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543397
+Status : Not Answered
+Q.25
+Given
+Answer :
+7
+Question Type : SA
+Question ID : 533543405
+Status : Answered
+Q.26
+Given
+Answer :
+126
+Question Type : SA
+Question ID : 533543398
+Status : Answered
+Q.27
+Given
+Answer :
+9
+Question Type : SA
+Question ID : 533543400
+Status : Answered
+Q.28
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543406
+Status : Not Answered
+Q.29
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543401
+Status : Not Answered
+Q.30
+Given
+Answer :
+1
+Question Type : SA
+Question ID : 533543404
+Status : Answered
+Q.31
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543409
+Option 1 ID : 5335431459
+Option 2 ID : 5335431460
+Option 3 ID : 5335431462
+Option 4 ID : 5335431461
+Status : Answered
+Chosen Option : 2
+Q.32
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543415
+Option 1 ID : 5335431483
+Option 2 ID : 5335431485
+Option 3 ID : 5335431484
+Option 4 ID : 5335431486
+Status : Answered
+Chosen Option : 4
+Q.33
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543418
+Option 1 ID : 5335431498
+Option 2 ID : 5335431496
+Option 3 ID : 5335431497
+Option 4 ID : 5335431495
+Status : Answered
+Chosen Option : 3
+Q.34
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543424
+Option 1 ID : 5335431519
+Option 2 ID : 5335431520
+Option 3 ID : 5335431521
+Option 4 ID : 5335431522
+Status : Answered
+Chosen Option : 4
+Q.35
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543422
+Option 1 ID : 5335431511
+Option 2 ID : 5335431514
+Option 3 ID : 5335431512
+Option 4 ID : 5335431513
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.36
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543423
+Option 1 ID : 5335431517
+Option 2 ID : 5335431516
+Option 3 ID : 5335431518
+Option 4 ID : 5335431515
+Status : Answered
+Chosen Option : 2
+Q.37
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543421
+Option 1 ID : 5335431510
+Option 2 ID : 5335431509
+Option 3 ID : 5335431507
+Option 4 ID : 5335431508
+Status : Answered
+Chosen Option : 3
+Q.38
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543414
+Option 1 ID : 5335431479
+Option 2 ID : 5335431480
+Option 3 ID : 5335431482
+Option 4 ID : 5335431481
+Status : Answered
+Chosen Option : 2
+Q.39
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543412
+Option 1 ID : 5335431474
+Option 2 ID : 5335431471
+Option 3 ID : 5335431473
+Option 4 ID : 5335431472
+Status : Answered
+Chosen Option : 2
+Q.40
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543419
+Option 1 ID : 5335431501
+Option 2 ID : 5335431502
+Option 3 ID : 5335431499
+Option 4 ID : 5335431500
+Status : Answered
+Chosen Option : 4
+Q.41
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543417
+Option 1 ID : 5335431493
+Option 2 ID : 5335431492
+Option 3 ID : 5335431494
+Option 4 ID : 5335431491
+Status : Answered
+Chosen Option : 2
+Q.42
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543411
+Option 1 ID : 5335431470
+Option 2 ID : 5335431467
+Option 3 ID : 5335431469
+Option 4 ID : 5335431468
+Status : Answered
+Chosen Option : 2
+Q.43
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543407
+Option 1 ID : 5335431453
+Option 2 ID : 5335431454
+Option 3 ID : 5335431451
+Option 4 ID : 5335431452
+Status : Answered
+Chosen Option : 1
+Q.44
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543408
+Option 1 ID : 5335431456
+Option 2 ID : 5335431455
+Option 3 ID : 5335431458
+Option 4 ID : 5335431457
+Status : Answered
+Chosen Option : 4
+Q.45
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543416
+Option 1 ID : 5335431489
+Option 2 ID : 5335431488
+Option 3 ID : 5335431487
+Option 4 ID : 5335431490
+Status : Answered
+Chosen Option : 1
+Q.46
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543413
+Option 1 ID : 5335431476
+Option 2 ID : 5335431478
+Option 3 ID : 5335431477
+Option 4 ID : 5335431475
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.47
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543420
+Option 1 ID : 5335431506
+Option 2 ID : 5335431503
+Option 3 ID : 5335431505
+Option 4 ID : 5335431504
+Status : Not Answered
+Chosen Option : --
+Q.48
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543410
+Option 1 ID : 5335431466
+Option 2 ID : 5335431463
+Option 3 ID : 5335431465
+Option 4 ID : 5335431464
+Status : Answered
+Chosen Option : 3
+Q.49
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543426
+Option 1 ID : 5335431527
+Option 2 ID : 5335431530
+Option 3 ID : 5335431529
+Option 4 ID : 5335431528
+Status : Answered
+Chosen Option : 3
+Q.50
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543425
+Option 1 ID : 5335431524
+Option 2 ID : 5335431525
+Option 3 ID : 5335431523
+Option 4 ID : 5335431526
+Status : Answered
+Chosen Option : 2
+Q.51
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543432
+Status : Not Answered
+Q.52
+Given
+Answer :
+2
+Question Type : SA
+Question ID : 533543434
+Status : Answered
+Q.53
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543429
+Status : Not Answered
+Q.54
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543436
+Status : Not Answered
+Q.55
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543431
+Status : Not Answered
+Q.56
+Given
+Answer :
+12
+Question Type : SA
+Question ID : 533543430
+Status : Answered
+Q.57
+Given
+Answer :
+16
+Question Type : SA
+Question ID : 533543428
+Status : Answered
+Q.58
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543435
+Status : Not Answered
+Q.59
+Given
+Answer :
+160
+Question Type : SA
+Question ID : 533543433
+Status : Answered
+Q.60
+Given
+Answer :
+673
+Question Type : SA
+Question ID : 533543427
+Status : Answered
+Q.61
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543450
+Option 1 ID : 5335431596
+Option 2 ID : 5335431593
+Option 3 ID : 5335431595
+Option 4 ID : 5335431594
+Status : Answered
+Chosen Option : 3
+Q.62
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543452
+Option 1 ID : 5335431604
+Option 2 ID : 5335431603
+Option 3 ID : 5335431601
+Option 4 ID : 5335431602
+Status : Answered
+Chosen Option : 2
+Q.63
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543453
+Option 1 ID : 5335431607
+Option 2 ID : 5335431608
+Option 3 ID : 5335431606
+Option 4 ID : 5335431605
+Status : Answered
+Chosen Option : 3
+Q.64
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543437
+Option 1 ID : 5335431543
+Option 2 ID : 5335431544
+Option 3 ID : 5335431542
+Option 4 ID : 5335431541
+Status : Answered
+Chosen Option : 1
+Q.65
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543440
+Option 1 ID : 5335431553
+Option 2 ID : 5335431555
+Option 3 ID : 5335431556
+Option 4 ID : 5335431554
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.66
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543442
+Option 1 ID : 5335431561
+Option 2 ID : 5335431564
+Option 3 ID : 5335431562
+Option 4 ID : 5335431563
+Status : Not Answered
+Chosen Option : --
+Q.67
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543441
+Option 1 ID : 5335431557
+Option 2 ID : 5335431559
+Option 3 ID : 5335431558
+Option 4 ID : 5335431560
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.68
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543446
+Option 1 ID : 5335431579
+Option 2 ID : 5335431577
+Option 3 ID : 5335431578
+Option 4 ID : 5335431580
+Status : Answered
+Chosen Option : 4
+Q.69
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543448
+Option 1 ID : 5335431586
+Option 2 ID : 5335431587
+Option 3 ID : 5335431588
+Option 4 ID : 5335431585
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.70
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543454
+Option 1 ID : 5335431612
+Option 2 ID : 5335431611
+Option 3 ID : 5335431609
+Option 4 ID : 5335431610
+Status : Answered
+Chosen Option : 1
+Q.71
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543439
+Option 1 ID : 5335431552
+Option 2 ID : 5335431549
+Option 3 ID : 5335431550
+Option 4 ID : 5335431551
+Status : Not Answered
+Chosen Option : --
+Q.72
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543455
+Option 1 ID : 5335431616
+Option 2 ID : 5335431614
+Option 3 ID : 5335431615
+Option 4 ID : 5335431613
+Status : Not Answered
+Chosen Option : --
+Q.73
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543444
+Option 1 ID : 5335431571
+Option 2 ID : 5335431572
+Option 3 ID : 5335431570
+Option 4 ID : 5335431569
+Status : Answered
+Chosen Option : 3
+Q.74
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543443
+Option 1 ID : 5335431565
+Option 2 ID : 5335431568
+Option 3 ID : 5335431567
+Option 4 ID : 5335431566
+Status : Answered
+Chosen Option : 4
+Q.75
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543456
+Option 1 ID : 5335431618
+Option 2 ID : 5335431620
+Option 3 ID : 5335431617
+Option 4 ID : 5335431619
+Status : Answered
+Chosen Option : 1
+Q.76
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543447
+Option 1 ID : 5335431583
+Option 2 ID : 5335431581
+Option 3 ID : 5335431584
+Option 4 ID : 5335431582
+Status : Answered
+Chosen Option : 3
+Q.77
+Options
+1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543445
+Option 1 ID : 5335431574
+Option 2 ID : 5335431576
+Option 3 ID : 5335431573
+Option 4 ID : 5335431575
+Status : Answered
+Chosen Option : 1
+Q.78
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543451
+Option 1 ID : 5335431597
+Option 2 ID : 5335431598
+Option 3 ID : 5335431599
+Option 4 ID : 5335431600
+Status : Answered
+Chosen Option : 4
+Q.79
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543449
+Option 1 ID : 5335431591
+Option 2 ID : 5335431589
+Option 3 ID : 5335431590
+Option 4 ID : 5335431592
+Status : Answered
+Chosen Option : 4
+Q.80
+Options 1.
+2.
+3.
+4.
+Question Type : MCQ
+Question ID : 533543438
+Option 1 ID : 5335431545
+Option 2 ID : 5335431546
+Option 3 ID : 5335431547
+Option 4 ID : 5335431548
+Status : Answered
+Chosen Option : 1
+Q.81
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543461
+Status : Not Answered
+Q.82
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543459
+Status : Not Answered
+Q.83
+Given
+Answer :
+16
+Question Type : SA
+Question ID : 533543458
+Status : Answered
+Q.84
+Given
+Answer :
+2
+Question Type : SA
+Question ID : 533543463
+Status : Answered
+Q.85
+Given
+Answer :
+54
+Question Type : SA
+Question ID : 533543462
+Status : Answered
+Q.86
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543460
+Status : Not Answered
+Q.87
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543464
+Status : Not Attempted and
+Marked For Review
+Q.88
+Given
+Answer :
+--
+Question Type : SA
+Question ID : 533543466
+Status : Not Answered
+Q.89
+Given
+Answer :
+8
+Question Type : SA
+Question ID : 533543457
+Status : Answered
+Q.90
+Given
+Answer :
+3
+Question Type : SA
+Question ID : 533543465
+Status : Answered
