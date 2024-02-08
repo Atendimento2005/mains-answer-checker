@@ -54,7 +54,7 @@ while i < len(cdata):
 			for j in range(4):
 				if int(cdata[i+2+j].split(" ")[1]) == copt:
 					option = j+1
-					qobj["option"] = option
+					qobj["option"] = int(cdata[i+2+j].split(" ")[4])
 					qobj["status"] = "Answered"
 					break
 		else:
